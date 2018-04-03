@@ -1,0 +1,1 @@
+Please put a image in .gif formate of person with same name you Specify in the file Name Entry. Try to keep resolution of image H:300  W:250 
